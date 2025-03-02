@@ -1,8 +1,6 @@
-# A Guide to Fire Kings
+# Fire King Combos
 
-A written guide that teaches the player how to play Fire King, a Yu-Gi-Oh! deck.
-
-You can read the latest released version here: https://arqalite.github.io/fire-king-guide/
+A written guide that teaches the player Fire King combos.
 
 ### Building the book locally
 You will need [mdBook] installed.
@@ -26,7 +24,4 @@ Anything else is licensed under the MIT license.
 Thanks to the [the Fire King Discord server] for keeping my interest in the deck alive,
 and their valuable feedback as the book was written and edited.
 
-Card images courtesy of [Yugipedia].
-
-[Yugipedia]: https://yugipedia.com/wiki/Yugipedia
 [the Fire King Discord server]: https://discord.gg/ErkeY4g9PG
